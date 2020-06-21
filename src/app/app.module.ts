@@ -5,10 +5,12 @@ import { NgSelectModule } from '@ng-select/ng-select';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
+import { CityService } from './city.service';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule, NgSelectModule ],
   declarations: [ AppComponent, HelloComponent ],
-  bootstrap:    [ AppComponent ]
+  bootstrap:    [ AppComponent ],
+  providers: [CityService]
 })
 export class AppModule { }

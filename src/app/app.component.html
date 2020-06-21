@@ -1,6 +1,12 @@
 <div>
-	<p>Tagging without dropdown. Press enter to add item</p>
+	<p>新增Tag</p>
 
-	<ng-select [items]="[]" [addTag]="true" [multiple]="true" [selectOnTab]="true" [isOpen]="false">
+	<ng-select [(ngModel)]="items" [addTag]="true" [multiple]="true" [selectOnTab]="true" [isOpen]="false">
 	</ng-select>
+</div>
+<div>
+	<p>尋索</p>
+
+	<ng-select>
+	</ng-select [(ngModel)]="cities">
 </div>
