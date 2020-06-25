@@ -10,8 +10,8 @@ import { Distinct } from "./models/Distinct";
 })
 export class AppComponent implements OnInit {
   items: string[] = [];
-  cities$: Observable<City[]>;
-  ditincts$: Observable<Distinct[]>;
+  cities: City[];
+  ditincts: Distinct[];
 
   constructor() {}
 

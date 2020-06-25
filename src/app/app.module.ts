@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { NgSelectModule } from '@ng-select/ng-select';
 
@@ -8,7 +9,7 @@ import { HelloComponent } from './hello.component';
 import { CityService } from './city.service';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, NgSelectModule ],
+  imports:      [ BrowserModule, FormsModule, NgSelectModule, HttpClientModule ],
   declarations: [ AppComponent, HelloComponent ],
   bootstrap:    [ AppComponent ],
   providers: [CityService]
