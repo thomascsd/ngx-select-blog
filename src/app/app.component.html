@@ -5,8 +5,7 @@
 	</ng-select>
 </div>
 <div>
-	<p>尋索</p>
-
-	<ng-select [(ngModel)]="items">
+	<p>查詢</p>
+	<ng-select [items]="cities$ | async" bindValue="countyCode" bindLabel="countyName" placeholder="縣市">
 	</ng-select>
 </div>

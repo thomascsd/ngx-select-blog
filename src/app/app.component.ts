@@ -2,6 +2,7 @@ import { Component, OnInit } from "@angular/core";
 import { Observable } from "rxjs";
 import { City } from "./models/City";
 import { Distinct } from "./models/Distinct";
+import { CityService } from "./city.service";
 
 @Component({
   selector: "my-app",
@@ -10,12 +11,13 @@ import { Distinct } from "./models/Distinct";
 })
 export class AppComponent implements OnInit {
   items: string[] = [];
-  cities: City[];
+  cities$: Observable<City[]>;
   ditincts: Distinct[];
 
-  constructor() {}
+  constructor(private cityService: CityService) {}
 
   ngOnInit() {
     this.items.push("Angular");
+    this.cities$ = this.cityService.getCities();
   }
 }
