@@ -7,10 +7,11 @@ import { NgSelectModule } from '@ng-select/ng-select';
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 import { CityService } from './city.service';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule, NgSelectModule, HttpClientModule ],
-  declarations: [ AppComponent, HelloComponent ],
+  declarations: [ AppComponent, HelloComponent, HomeComponent ],
   bootstrap:    [ AppComponent ],
   providers: [CityService]
 })
