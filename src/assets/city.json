@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "countyCode": 63,
+    "countyName": "臺北市"
+  },
+  {
+    "id": 2,
+    "countyCode": 64,
+    "countyName": "高雄市"
+  },
+  {
+    "id": 3,
+    "countyCode": 65,
+    "countyName": "新北市"
+  },
+  {
+    "id": 4,
+    "countyCode": 66,
+    "countyName": "臺中市"
+  },
+  {
+    "id": 5,
+    "countyCode": 67,
+    "countyName": "臺南市"
+  },
+  {
+    "id": 6,
+    "countyCode": 68,
+    "countyName": "桃園市"
+  },
+  {
+    "id": 7,
+    "countyCode": "09007",
+    "countyName": "連江縣"
+  },
+  {
+    "id": 8,
+    "countyCode": "09020",
+    "countyName": "金門縣"
+  },
+  {
+    "id": 9,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣"
+  },
+  {
+    "id": 10,
+    "countyCode": 10004,
+    "countyName": "新竹縣"
+  },
+  {
+    "id": 11,
+    "countyCode": 10005,
+    "countyName": "苗栗縣"
+  },
+  {
+    "id": 12,
+    "countyCode": 10007,
+    "countyName": "彰化縣"
+  },
+  {
+    "id": 13,
+    "countyCode": 10008,
+    "countyName": "南投縣"
+  },
+  {
+    "id": 14,
+    "countyCode": 10009,
+    "countyName": "雲林縣"
+  },
+  {
+    "id": 15,
+    "countyCode": 10010,
+    "countyName": "嘉義縣"
+  },
+  {
+    "id": 16,
+    "countyCode": 10013,
+    "countyName": "屏東縣"
+  },
+  {
+    "id": 17,
+    "countyCode": 10014,
+    "countyName": "臺東縣"
+  },
+  {
+    "id": 18,
+    "countyCode": 10015,
+    "countyName": "花蓮縣"
+  },
+  {
+    "id": 19,
+    "countyCode": 10016,
+    "countyName": "澎湖縣"
+  },
+  {
+    "id": 20,
+    "countyCode": 10017,
+    "countyName": "基隆市"
+  },
+  {
+    "id": 21,
+    "countyCode": 10018,
+    "countyName": "新竹市"
+  },
+  {
+    "id": 22,
+    "countyCode": 10020,
+    "countyName": "嘉義市"
+  }
+]

@@ -1,0 +1,2210 @@
+[
+  {
+    "id": 1,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "蘇澳鎮"
+  },
+  {
+    "id": 2,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "南澳鄉"
+  },
+  {
+    "id": 3,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "冬山鄉"
+  },
+  {
+    "id": 4,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "羅東鎮"
+  },
+  {
+    "id": 5,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "三星鄉"
+  },
+  {
+    "id": 6,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "五結鄉"
+  },
+  {
+    "id": 7,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "大同鄉"
+  },
+  {
+    "id": 8,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "宜蘭市"
+  },
+  {
+    "id": 9,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "員山鄉"
+  },
+  {
+    "id": 10,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "壯圍鄉"
+  },
+  {
+    "id": 11,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "礁溪鄉"
+  },
+  {
+    "id": 12,
+    "countyCode": 10002,
+    "countyName": "宜蘭縣",
+    "distinctName": "頭城鎮"
+  },
+  {
+    "id": 13,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "豐濱鄉"
+  },
+  {
+    "id": 14,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "富里鄉"
+  },
+  {
+    "id": 15,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "玉里鎮"
+  },
+  {
+    "id": 16,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "瑞穗鄉"
+  },
+  {
+    "id": 17,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "卓溪鄉"
+  },
+  {
+    "id": 18,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "光復鄉"
+  },
+  {
+    "id": 19,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "鳳林鎮"
+  },
+  {
+    "id": 20,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "萬榮鄉"
+  },
+  {
+    "id": 21,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "壽豐鄉"
+  },
+  {
+    "id": 22,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "吉安鄉"
+  },
+  {
+    "id": 23,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "花蓮市"
+  },
+  {
+    "id": 24,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "新城鄉"
+  },
+  {
+    "id": 25,
+    "countyCode": 10015,
+    "countyName": "花蓮縣",
+    "distinctName": "秀林鄉"
+  },
+  {
+    "id": 26,
+    "countyCode": "09020",
+    "countyName": "金門縣",
+    "distinctName": "烈嶼鄉"
+  },
+  {
+    "id": 27,
+    "countyCode": "09020",
+    "countyName": "金門縣",
+    "distinctName": "金城鎮"
+  },
+  {
+    "id": 28,
+    "countyCode": "09020",
+    "countyName": "金門縣",
+    "distinctName": "金寧鄉"
+  },
+  {
+    "id": 29,
+    "countyCode": "09020",
+    "countyName": "金門縣",
+    "distinctName": "金沙鎮"
+  },
+  {
+    "id": 30,
+    "countyCode": "09020",
+    "countyName": "金門縣",
+    "distinctName": "金湖鎮"
+  },
+  {
+    "id": 31,
+    "countyCode": "09020",
+    "countyName": "金門縣",
+    "distinctName": "烏坵鄉"
+  },
+  {
+    "id": 32,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "魚池鄉"
+  },
+  {
+    "id": 33,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "鹿谷鄉"
+  },
+  {
+    "id": 34,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "竹山鎮"
+  },
+  {
+    "id": 35,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "集集鎮"
+  },
+  {
+    "id": 36,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "信義鄉"
+  },
+  {
+    "id": 37,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "名間鄉"
+  },
+  {
+    "id": 38,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "水里鄉"
+  },
+  {
+    "id": 39,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "南投市"
+  },
+  {
+    "id": 40,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "中寮鄉"
+  },
+  {
+    "id": 41,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "草屯鎮"
+  },
+  {
+    "id": 42,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "埔里鎮"
+  },
+  {
+    "id": 43,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "國姓鄉"
+  },
+  {
+    "id": 44,
+    "countyCode": 10008,
+    "countyName": "南投縣",
+    "distinctName": "仁愛鄉"
+  },
+  {
+    "id": 45,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "牡丹鄉"
+  },
+  {
+    "id": 46,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "佳冬鄉"
+  },
+  {
+    "id": 47,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "枋寮鄉"
+  },
+  {
+    "id": 48,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "恆春鎮"
+  },
+  {
+    "id": 49,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "車城鄉"
+  },
+  {
+    "id": 50,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "滿州鄉"
+  },
+  {
+    "id": 51,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "枋山鄉"
+  },
+  {
+    "id": 52,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "獅子鄉"
+  },
+  {
+    "id": 53,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "林邊鄉"
+  },
+  {
+    "id": 54,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "春日鄉"
+  },
+  {
+    "id": 55,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "東港鎮"
+  },
+  {
+    "id": 56,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "南州鄉"
+  },
+  {
+    "id": 57,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "新埤鄉"
+  },
+  {
+    "id": 58,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "崁頂鄉"
+  },
+  {
+    "id": 59,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "新園鄉"
+  },
+  {
+    "id": 60,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "潮州鎮"
+  },
+  {
+    "id": 61,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "來義鄉"
+  },
+  {
+    "id": 62,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "萬丹鄉"
+  },
+  {
+    "id": 63,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "竹田鄉"
+  },
+  {
+    "id": 64,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "萬巒鄉"
+  },
+  {
+    "id": 65,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "泰武鄉"
+  },
+  {
+    "id": 66,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "麟洛鄉"
+  },
+  {
+    "id": 67,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "內埔鄉"
+  },
+  {
+    "id": 68,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "屏東市"
+  },
+  {
+    "id": 69,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "瑪家鄉"
+  },
+  {
+    "id": 70,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "長治鄉"
+  },
+  {
+    "id": 71,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "九如鄉"
+  },
+  {
+    "id": 72,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "鹽埔鄉"
+  },
+  {
+    "id": 73,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "里港鄉"
+  },
+  {
+    "id": 74,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "霧臺鄉"
+  },
+  {
+    "id": 75,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "三地門鄉"
+  },
+  {
+    "id": 76,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "高樹鄉"
+  },
+  {
+    "id": 77,
+    "countyCode": 10013,
+    "countyName": "屏東縣",
+    "distinctName": "琉球鄉"
+  },
+  {
+    "id": 78,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "卓蘭鎮"
+  },
+  {
+    "id": 79,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "三義鄉"
+  },
+  {
+    "id": 80,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "大湖鄉"
+  },
+  {
+    "id": 81,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "苑裡鎮"
+  },
+  {
+    "id": 82,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "泰安鄉"
+  },
+  {
+    "id": 83,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "銅鑼鄉"
+  },
+  {
+    "id": 84,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "公館鄉"
+  },
+  {
+    "id": 85,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "通霄鎮"
+  },
+  {
+    "id": 86,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "西湖鄉"
+  },
+  {
+    "id": 87,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "苗栗市"
+  },
+  {
+    "id": 88,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "獅潭鄉"
+  },
+  {
+    "id": 89,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "頭屋鄉"
+  },
+  {
+    "id": 90,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "南庄鄉"
+  },
+  {
+    "id": 91,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "造橋鄉"
+  },
+  {
+    "id": 92,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "後龍鎮"
+  },
+  {
+    "id": 93,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "三灣鄉"
+  },
+  {
+    "id": 94,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "頭份市"
+  },
+  {
+    "id": 95,
+    "countyCode": 10005,
+    "countyName": "苗栗縣",
+    "distinctName": "竹南鎮"
+  },
+  {
+    "id": 96,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "新屋區"
+  },
+  {
+    "id": 97,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "中壢區"
+  },
+  {
+    "id": 98,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "桃園區"
+  },
+  {
+    "id": 99,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "龜山區"
+  },
+  {
+    "id": 100,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "觀音區"
+  },
+  {
+    "id": 101,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "蘆竹區"
+  },
+  {
+    "id": 102,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "大園區"
+  },
+  {
+    "id": 103,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "復興區"
+  },
+  {
+    "id": 104,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "龍潭區"
+  },
+  {
+    "id": 105,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "大溪區"
+  },
+  {
+    "id": 106,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "楊梅區"
+  },
+  {
+    "id": 107,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "平鎮區"
+  },
+  {
+    "id": 108,
+    "countyCode": 68,
+    "countyName": "桃園市",
+    "distinctName": "八德區"
+  },
+  {
+    "id": 109,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "六龜區"
+  },
+  {
+    "id": 110,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "永安區"
+  },
+  {
+    "id": 111,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "小港區"
+  },
+  {
+    "id": 112,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "前鎮區"
+  },
+  {
+    "id": 113,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "苓雅區"
+  },
+  {
+    "id": 114,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "旗津區"
+  },
+  {
+    "id": 115,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "林園區"
+  },
+  {
+    "id": 116,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "前金區"
+  },
+  {
+    "id": 117,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "新興區"
+  },
+  {
+    "id": 118,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "鳳山區"
+  },
+  {
+    "id": 119,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "大寮區"
+  },
+  {
+    "id": 120,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "鼓山區"
+  },
+  {
+    "id": 121,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "三民區"
+  },
+  {
+    "id": 122,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "鳥松區"
+  },
+  {
+    "id": 123,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "左營區"
+  },
+  {
+    "id": 124,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "仁武區"
+  },
+  {
+    "id": 125,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "楠梓區"
+  },
+  {
+    "id": 126,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "大社區"
+  },
+  {
+    "id": 127,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "梓官區"
+  },
+  {
+    "id": 128,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "大樹區"
+  },
+  {
+    "id": 129,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "橋頭區"
+  },
+  {
+    "id": 130,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "彌陀區"
+  },
+  {
+    "id": 131,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "燕巢區"
+  },
+  {
+    "id": 132,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "岡山區"
+  },
+  {
+    "id": 133,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "路竹區"
+  },
+  {
+    "id": 134,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "阿蓮區"
+  },
+  {
+    "id": 135,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "茄萣區"
+  },
+  {
+    "id": 136,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "湖內區"
+  },
+  {
+    "id": 137,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "田寮區"
+  },
+  {
+    "id": 138,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "旗山區"
+  },
+  {
+    "id": 139,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "美濃區"
+  },
+  {
+    "id": 140,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "茂林區"
+  },
+  {
+    "id": 141,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "內門區"
+  },
+  {
+    "id": 142,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "杉林區"
+  },
+  {
+    "id": 143,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "甲仙區"
+  },
+  {
+    "id": 144,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "那瑪夏區"
+  },
+  {
+    "id": 145,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "鹽埕區"
+  },
+  {
+    "id": 146,
+    "countyCode": 64,
+    "countyName": "高雄市",
+    "distinctName": "桃源區"
+  },
+  {
+    "id": 147,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "暖暖區"
+  },
+  {
+    "id": 148,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "仁愛區"
+  },
+  {
+    "id": 149,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "信義區"
+  },
+  {
+    "id": 150,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "七堵區"
+  },
+  {
+    "id": 151,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "中山區"
+  },
+  {
+    "id": 152,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "安樂區"
+  },
+  {
+    "id": 153,
+    "countyCode": 10017,
+    "countyName": "基隆市",
+    "distinctName": "中正區"
+  },
+  {
+    "id": 154,
+    "countyCode": "09007",
+    "countyName": "連江縣",
+    "distinctName": "北竿鄉"
+  },
+  {
+    "id": 155,
+    "countyCode": "09007",
+    "countyName": "連江縣",
+    "distinctName": "南竿鄉"
+  },
+  {
+    "id": 156,
+    "countyCode": "09007",
+    "countyName": "連江縣",
+    "distinctName": "東引鄉"
+  },
+  {
+    "id": 157,
+    "countyCode": "09007",
+    "countyName": "連江縣",
+    "distinctName": "莒光鄉"
+  },
+  {
+    "id": 158,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "臺西鄉"
+  },
+  {
+    "id": 159,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "麥寮鄉"
+  },
+  {
+    "id": 160,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "水林鄉"
+  },
+  {
+    "id": 161,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "北港鎮"
+  },
+  {
+    "id": 162,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "口湖鄉"
+  },
+  {
+    "id": 163,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "大埤鄉"
+  },
+  {
+    "id": 164,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "元長鄉"
+  },
+  {
+    "id": 165,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "古坑鄉"
+  },
+  {
+    "id": 166,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "四湖鄉"
+  },
+  {
+    "id": 167,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "斗南鎮"
+  },
+  {
+    "id": 168,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "東勢鄉"
+  },
+  {
+    "id": 169,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "褒忠鄉"
+  },
+  {
+    "id": 170,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "虎尾鎮"
+  },
+  {
+    "id": 171,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "土庫鎮"
+  },
+  {
+    "id": 172,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "斗六市"
+  },
+  {
+    "id": 173,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "林內鄉"
+  },
+  {
+    "id": 174,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "西螺鎮"
+  },
+  {
+    "id": 175,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "崙背鄉"
+  },
+  {
+    "id": 176,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "二崙鄉"
+  },
+  {
+    "id": 177,
+    "countyCode": 10009,
+    "countyName": "雲林縣",
+    "distinctName": "莿桐鄉"
+  },
+  {
+    "id": 178,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "中和區"
+  },
+  {
+    "id": 179,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "樹林區"
+  },
+  {
+    "id": 180,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "永和區"
+  },
+  {
+    "id": 181,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "深坑區"
+  },
+  {
+    "id": 182,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "板橋區"
+  },
+  {
+    "id": 183,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "石碇區"
+  },
+  {
+    "id": 184,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "新莊區"
+  },
+  {
+    "id": 185,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "泰山區"
+  },
+  {
+    "id": 186,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "平溪區"
+  },
+  {
+    "id": 187,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "三重區"
+  },
+  {
+    "id": 188,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "雙溪區"
+  },
+  {
+    "id": 189,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "蘆洲區"
+  },
+  {
+    "id": 190,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "貢寮區"
+  },
+  {
+    "id": 191,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "五股區"
+  },
+  {
+    "id": 192,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "林口區"
+  },
+  {
+    "id": 193,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "瑞芳區"
+  },
+  {
+    "id": 194,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "汐止區"
+  },
+  {
+    "id": 195,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "八里區"
+  },
+  {
+    "id": 196,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "萬里區"
+  },
+  {
+    "id": 197,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "淡水區"
+  },
+  {
+    "id": 198,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "金山區"
+  },
+  {
+    "id": 199,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "三芝區"
+  },
+  {
+    "id": 200,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "石門區"
+  },
+  {
+    "id": 201,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "烏來區"
+  },
+  {
+    "id": 202,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "三峽區"
+  },
+  {
+    "id": 203,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "鶯歌區"
+  },
+  {
+    "id": 204,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "坪林區"
+  },
+  {
+    "id": 205,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "新店區"
+  },
+  {
+    "id": 206,
+    "countyCode": 65,
+    "countyName": "新北市",
+    "distinctName": "土城區"
+  },
+  {
+    "id": 207,
+    "countyCode": 10018,
+    "countyName": "新竹市",
+    "distinctName": "東區"
+  },
+  {
+    "id": 208,
+    "countyCode": 10018,
+    "countyName": "新竹市",
+    "distinctName": "香山區"
+  },
+  {
+    "id": 209,
+    "countyCode": 10018,
+    "countyName": "新竹市",
+    "distinctName": "北區"
+  },
+  {
+    "id": 210,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "五峰鄉"
+  },
+  {
+    "id": 211,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "峨眉鄉"
+  },
+  {
+    "id": 212,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "北埔鄉"
+  },
+  {
+    "id": 213,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "橫山鄉"
+  },
+  {
+    "id": 214,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "尖石鄉"
+  },
+  {
+    "id": 215,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "寶山鄉"
+  },
+  {
+    "id": 216,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "竹東鎮"
+  },
+  {
+    "id": 217,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "芎林鄉"
+  },
+  {
+    "id": 218,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "關西鎮"
+  },
+  {
+    "id": 219,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "竹北市"
+  },
+  {
+    "id": 220,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "新埔鎮"
+  },
+  {
+    "id": 221,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "湖口鄉"
+  },
+  {
+    "id": 222,
+    "countyCode": 10004,
+    "countyName": "新竹縣",
+    "distinctName": "新豐鄉"
+  },
+  {
+    "id": 223,
+    "countyCode": 10020,
+    "countyName": "嘉義市",
+    "distinctName": "西區"
+  },
+  {
+    "id": 224,
+    "countyCode": 10020,
+    "countyName": "嘉義市",
+    "distinctName": "東區"
+  },
+  {
+    "id": 225,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "東石鄉"
+  },
+  {
+    "id": 226,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "布袋鎮"
+  },
+  {
+    "id": 227,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "大埔鄉"
+  },
+  {
+    "id": 228,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "義竹鄉"
+  },
+  {
+    "id": 229,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "鹿草鄉"
+  },
+  {
+    "id": 230,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "中埔鄉"
+  },
+  {
+    "id": 231,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "水上鄉"
+  },
+  {
+    "id": 232,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "朴子市"
+  },
+  {
+    "id": 233,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "番路鄉"
+  },
+  {
+    "id": 234,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "竹崎鄉"
+  },
+  {
+    "id": 235,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "六腳鄉"
+  },
+  {
+    "id": 236,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "民雄鄉"
+  },
+  {
+    "id": 237,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "新港鄉"
+  },
+  {
+    "id": 238,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "梅山鄉"
+  },
+  {
+    "id": 239,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "阿里山鄉"
+  },
+  {
+    "id": 240,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "溪口鄉"
+  },
+  {
+    "id": 241,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "大林鎮"
+  },
+  {
+    "id": 242,
+    "countyCode": 10010,
+    "countyName": "嘉義縣",
+    "distinctName": "太保市"
+  },
+  {
+    "id": 243,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "二水鄉"
+  },
+  {
+    "id": 244,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "溪州鄉"
+  },
+  {
+    "id": 245,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "竹塘鄉"
+  },
+  {
+    "id": 246,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "北斗鎮"
+  },
+  {
+    "id": 247,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "田中鎮"
+  },
+  {
+    "id": 248,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "大城鄉"
+  },
+  {
+    "id": 249,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "田尾鄉"
+  },
+  {
+    "id": 250,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "埤頭鄉"
+  },
+  {
+    "id": 251,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "社頭鄉"
+  },
+  {
+    "id": 252,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "永靖鄉"
+  },
+  {
+    "id": 253,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "埔心鄉"
+  },
+  {
+    "id": 254,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "溪湖鎮"
+  },
+  {
+    "id": 255,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "員林市"
+  },
+  {
+    "id": 256,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "二林鎮"
+  },
+  {
+    "id": 257,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "大村鄉"
+  },
+  {
+    "id": 258,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "埔鹽鄉"
+  },
+  {
+    "id": 259,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "芳苑鄉"
+  },
+  {
+    "id": 260,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "芬園鄉"
+  },
+  {
+    "id": 261,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "花壇鄉"
+  },
+  {
+    "id": 262,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "福興鄉"
+  },
+  {
+    "id": 263,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "秀水鄉"
+  },
+  {
+    "id": 264,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "彰化市"
+  },
+  {
+    "id": 265,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "鹿港鎮"
+  },
+  {
+    "id": 266,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "線西鄉"
+  },
+  {
+    "id": 267,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "和美鎮"
+  },
+  {
+    "id": 268,
+    "countyCode": 10007,
+    "countyName": "彰化縣",
+    "distinctName": "伸港鄉"
+  },
+  {
+    "id": 269,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "南區"
+  },
+  {
+    "id": 270,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "霧峰區"
+  },
+  {
+    "id": 271,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "大里區"
+  },
+  {
+    "id": 272,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "烏日區"
+  },
+  {
+    "id": 273,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "中區"
+  },
+  {
+    "id": 274,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "西區"
+  },
+  {
+    "id": 275,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "太平區"
+  },
+  {
+    "id": 276,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "南屯區"
+  },
+  {
+    "id": 277,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "北區"
+  },
+  {
+    "id": 278,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "大肚區"
+  },
+  {
+    "id": 279,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "西屯區"
+  },
+  {
+    "id": 280,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "北屯區"
+  },
+  {
+    "id": 281,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "潭子區"
+  },
+  {
+    "id": 282,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "大雅區"
+  },
+  {
+    "id": 283,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "沙鹿區"
+  },
+  {
+    "id": 284,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "新社區"
+  },
+  {
+    "id": 285,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "豐原區"
+  },
+  {
+    "id": 286,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "石岡區"
+  },
+  {
+    "id": 287,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "龍井區"
+  },
+  {
+    "id": 288,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "神岡區"
+  },
+  {
+    "id": 289,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "東勢區"
+  },
+  {
+    "id": 290,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "清水區"
+  },
+  {
+    "id": 291,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "后里區"
+  },
+  {
+    "id": 292,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "外埔區"
+  },
+  {
+    "id": 293,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "大安區"
+  },
+  {
+    "id": 294,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "大甲區"
+  },
+  {
+    "id": 295,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "和平區"
+  },
+  {
+    "id": 296,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "東區"
+  },
+  {
+    "id": 297,
+    "countyCode": 66,
+    "countyName": "臺中市",
+    "distinctName": "梧棲區"
+  },
+  {
+    "id": 298,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "文山區"
+  },
+  {
+    "id": 299,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "大安區"
+  },
+  {
+    "id": 300,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "萬華區"
+  },
+  {
+    "id": 301,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "中正區"
+  },
+  {
+    "id": 302,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "信義區"
+  },
+  {
+    "id": 303,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "南港區"
+  },
+  {
+    "id": 304,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "松山區"
+  },
+  {
+    "id": 305,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "大同區"
+  },
+  {
+    "id": 306,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "中山區"
+  },
+  {
+    "id": 307,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "內湖區"
+  },
+  {
+    "id": 308,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "士林區"
+  },
+  {
+    "id": 309,
+    "countyCode": 63,
+    "countyName": "臺北市",
+    "distinctName": "北投區"
+  },
+  {
+    "id": 310,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "長濱鄉"
+  },
+  {
+    "id": 311,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "東河鄉"
+  },
+  {
+    "id": 312,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "成功鎮"
+  },
+  {
+    "id": 313,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "大武鄉"
+  },
+  {
+    "id": 314,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "達仁鄉"
+  },
+  {
+    "id": 315,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "金峰鄉"
+  },
+  {
+    "id": 316,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "太麻里鄉"
+  },
+  {
+    "id": 317,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "臺東市"
+  },
+  {
+    "id": 318,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "卑南鄉"
+  },
+  {
+    "id": 319,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "延平鄉"
+  },
+  {
+    "id": 320,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "鹿野鄉"
+  },
+  {
+    "id": 321,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "關山鎮"
+  },
+  {
+    "id": 322,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "池上鄉"
+  },
+  {
+    "id": 323,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "海端鄉"
+  },
+  {
+    "id": 324,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "綠島鄉"
+  },
+  {
+    "id": 325,
+    "countyCode": 10014,
+    "countyName": "臺東縣",
+    "distinctName": "蘭嶼鄉"
+  },
+  {
+    "id": 326,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "北門區"
+  },
+  {
+    "id": 327,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "將軍區"
+  },
+  {
+    "id": 328,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "七股區"
+  },
+  {
+    "id": 329,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "南區"
+  },
+  {
+    "id": 330,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "仁德區"
+  },
+  {
+    "id": 331,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "中西區"
+  },
+  {
+    "id": 332,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "東區"
+  },
+  {
+    "id": 333,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "安平區"
+  },
+  {
+    "id": 334,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "龍崎區"
+  },
+  {
+    "id": 335,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "關廟區"
+  },
+  {
+    "id": 336,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "歸仁區"
+  },
+  {
+    "id": 337,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "北區"
+  },
+  {
+    "id": 338,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "永康區"
+  },
+  {
+    "id": 339,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "新化區"
+  },
+  {
+    "id": 340,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "左鎮區"
+  },
+  {
+    "id": 341,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "安南區"
+  },
+  {
+    "id": 342,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "新市區"
+  },
+  {
+    "id": 343,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "安定區"
+  },
+  {
+    "id": 344,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "山上區"
+  },
+  {
+    "id": 345,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "西港區"
+  },
+  {
+    "id": 346,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "善化區"
+  },
+  {
+    "id": 347,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "玉井區"
+  },
+  {
+    "id": 348,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "大內區"
+  },
+  {
+    "id": 349,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "佳里區"
+  },
+  {
+    "id": 350,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "官田區"
+  },
+  {
+    "id": 351,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "麻豆區"
+  },
+  {
+    "id": 352,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "楠西區"
+  },
+  {
+    "id": 353,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "南化區"
+  },
+  {
+    "id": 354,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "六甲區"
+  },
+  {
+    "id": 355,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "下營區"
+  },
+  {
+    "id": 356,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "學甲區"
+  },
+  {
+    "id": 357,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "柳營區"
+  },
+  {
+    "id": 358,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "東山區"
+  },
+  {
+    "id": 359,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "新營區"
+  },
+  {
+    "id": 360,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "鹽水區"
+  },
+  {
+    "id": 361,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "後壁區"
+  },
+  {
+    "id": 362,
+    "countyCode": 67,
+    "countyName": "臺南市",
+    "distinctName": "白河區"
+  },
+  {
+    "id": 363,
+    "countyCode": 10016,
+    "countyName": "澎湖縣",
+    "distinctName": "七美鄉"
+  },
+  {
+    "id": 364,
+    "countyCode": 10016,
+    "countyName": "澎湖縣",
+    "distinctName": "白沙鄉"
+  },
+  {
+    "id": 365,
+    "countyCode": 10016,
+    "countyName": "澎湖縣",
+    "distinctName": "西嶼鄉"
+  },
+  {
+    "id": 366,
+    "countyCode": 10016,
+    "countyName": "澎湖縣",
+    "distinctName": "馬公市"
+  },
+  {
+    "id": 367,
+    "countyCode": 10016,
+    "countyName": "澎湖縣",
+    "distinctName": "望安鄉"
+  },
+  {
+    "id": 368,
+    "countyCode": 10016,
+    "countyName": "澎湖縣",
+    "distinctName": "湖西鄉"
+  }
+]
